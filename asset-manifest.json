@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Bingo-text-playground/static/css/main.abd64e84.css",
+    "main.js": "/React-Bingo-text-playground/static/js/main.b6b6cbf3.js",
+    "static/js/787.a676f994.chunk.js": "/React-Bingo-text-playground/static/js/787.a676f994.chunk.js",
+    "index.html": "/React-Bingo-text-playground/index.html",
+    "main.abd64e84.css.map": "/React-Bingo-text-playground/static/css/main.abd64e84.css.map",
+    "main.b6b6cbf3.js.map": "/React-Bingo-text-playground/static/js/main.b6b6cbf3.js.map",
+    "787.a676f994.chunk.js.map": "/React-Bingo-text-playground/static/js/787.a676f994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b6b6cbf3.js"
+  ]
+}
