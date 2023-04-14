@@ -1,4 +1,4 @@
-#Node module folder is node added(kindly add it before using the code)
+#Node module folder is not added(kindly add it before using the code)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
